@@ -21,11 +21,10 @@
 ---
 
 ### 📂 Структура проєкту
-* 📄 [**A_B_test_project.pdf**](https://github.com/IvanRadelytskyi/combined_homeworks_A_B_testing/blob/main/A_B_test_project.pdf) — Документ із плануванням та фінальний звіт.
+* 📄 [**A_B_test_project.pdf**](https://github.com/IvanRadelytskyi/combined_homeworks_A_B_testing/blob/main/A_B%20test%20_project.pdf) — Документ із плануванням .
+* 📄 [**A_B_test_project.pdf**](https://github.com/IvanRadelytskyi/combined_homeworks_A_B_testing/blob/main/A_B_test%20_project.pdf) — Документ із  фінальним звітом.
 * 💻 [**A_B_Project.ipynb**](https://github.com/IvanRadelytskyi/combined_homeworks_A_B_testing/blob/main/A_B_Project.ipynb) — Код аналізу із розрахунком статистичної значущості.
-* 📊 [**Графік кумулятивної конверсії**](https://github.com/IvanRadelytskyi/combined_homeworks_A_B_testing/blob/main/cumulayive.png).
-* 📊 [**Графік результатів (Bar Plot)**](https://github.com/IvanRadelytskyi/combined_homeworks_A_B_testing/blob/main/result.png).
-
+  
 ---
 
 ### 📋 Етап 1: Планування (Design)
